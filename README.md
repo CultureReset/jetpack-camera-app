@@ -1,3 +1,14 @@
+> **CultureReset fork of [google/jetpack-camera-app](https://github.com/google/jetpack-camera-app).** A CameraX/Compose camera app built for validating camera feature implementations, serving as a reference for developers and OEMs.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** Apache-2.0, from upstream. For updates and issues, use [upstream](https://github.com/google/jetpack-camera-app).
+>
+> The upstream README follows unchanged.
+
+---
+
 <img src="docs/images/readme-banner-uhdr.jpg" alt="Jetpack Camera App Banner" width="2560" height="1440" style="width: 100%; height: auto; border-radius: 3.125% / 5.56%;">
 <p align="end"><sup>Ultra HDR image created with <a href="https://github.com/google/libultrahdr">libultrahdr</a></sup></p>
 
